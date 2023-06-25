@@ -78,11 +78,9 @@ public class Hogwarts {
 
     @Override
     public String toString() {
-        return "Hogwarts{" +
-                "name='" + name + '\'' +
+        return                 "name='" + name + '\'' +
                 ", faculty='" + faculty + '\'' +
                 ", magicPower=" + magicPower +
-                ", transgressionDistance=" + transgressionDistance +
-                '}';
+                ", transgressionDistance=" + transgressionDistance + " ,";
     }
 }

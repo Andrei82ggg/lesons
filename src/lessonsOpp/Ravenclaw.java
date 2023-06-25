@@ -73,7 +73,7 @@ public class Ravenclaw extends Hogwarts{
 
     @Override
     public String toString() {
-        return "Ravenclaw{" +
+        return super.toString() +
                 "mind=" + mind +
                 ", wisdom=" + wisdom +
                 ", wit=" + wit +
