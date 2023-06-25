@@ -26,5 +26,6 @@ public class Main {
         drako.compare(gregory);
         System.out.println(padma);
         zahariy.compare(sedric);
+        marcus.compare(harry);
     }
 }

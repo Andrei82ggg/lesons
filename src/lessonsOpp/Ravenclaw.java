@@ -78,6 +78,6 @@ public class Ravenclaw extends Hogwarts{
                 ", wisdom=" + wisdom +
                 ", wit=" + wit +
                 ", creativity=" + creativity +
-                '}';
+                ' ';
     }
 }
